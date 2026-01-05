@@ -1,10 +1,8 @@
 # ubuntu-server-hardening
 
-A repo that hardens Ubuntu Server 24.04.
+A repo that contains a copy-and-paste command to harden Ubuntu Server 24.04.
 
-To do this, clone this repo and execute the script, or use a copy-and-paste command:
-
-```sh
+```bash
 # update all packages
 sudo apt update
 sudo apt upgrade -y
